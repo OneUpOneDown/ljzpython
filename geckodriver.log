@@ -1,0 +1,27 @@
+1540297232337	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ljz\\AppData\\Local\\Temp\\rust_mozprofile.ZiXGl1zsgz69"
+1540297235960	Marionette	INFO	Listening on port 50810
+1540297236173	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540297236198	Marionette	DEBUG	[6442450945] Frame script loaded
+1540297236199	Marionette	DEBUG	[6442450945] Frame script registered
+1540297236223	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540297237878	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540297239428	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://kyfw.12306.cn/otn/login/init
+1540297240017	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://kyfw.12306.cn/otn/login/init
+Corrupt JPEG data: 11 extraneous bytes before marker 0xd9
+1540297242146	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://kyfw.12306.cn/otn/login/init
+1540297242232	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://kyfw.12306.cn/otn/login/init
+1540297242243	Marionette	DEBUG	[6442450945] Received DOM event unload for https://kyfw.12306.cn/otn/login/init
+1540297242371	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540297242397	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://kyfw.12306.cn/otn/leftTicket/init
+1540297243002	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://kyfw.12306.cn/otn/leftTicket/init
+1540297243289	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540297243585	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540297243871	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 9276, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9276, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8400, Chrome_ChildThread] WARNIN[Child 4372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4372, Chr1540298009279	Marionette	INFO	Stopped listening on port 50810
+[GPU 1184, Chrome_ChildThread
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
